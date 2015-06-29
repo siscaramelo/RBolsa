@@ -197,7 +197,7 @@ MenuIzqLoad(true,'General');
     <a href="javascript:var o=document.forms.formWeb.ctl00_webs.value;if(o && o.length>0) window.open(o,'_blank');void(0);">
     &nbsp;IR</a></div></div>
   </form></div>
-  <div id="PieCopyright">Copyright © Bolsas y Mercados Españoles 2013</div>
+  <div id="PieCopyright">Copyright © Bolsas y Mercados Espanoles 2013</div>
  </div></td>
  <td class="PieFondo BaseSep noimpr"></td>
  <td class="PieDcha noimpr"></td>
